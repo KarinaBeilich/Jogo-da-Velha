@@ -1,0 +1,9 @@
+            if(vez % 2 == 0){
+                printf("\033[1;31m");
+                printf("Jogador X\n");
+                printf("\033[0m");
+            } else {
+                printf("\033[1;34m");
+                printf("Jogador O\n");
+                printf("\033[0m");
+            }
