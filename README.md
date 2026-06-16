@@ -47,21 +47,11 @@ Durante o desenvolvimento deste projeto foram aplicados diversos fundamentos da 
 
 # 🖥️ Exemplo de Execução
 
-```text
-     1   2   3
 
-1    X | O | X
-    ---+---+---
+<p align="center">
+  <img width="247" alt="Interface do Jogo da Velha em C" src="JogodaVelha.png" />
+</p>
 
-2    O | X | O
-    ---+---+---
-
-3    O | X | X
-
-Jogador X venceu!
-```
-
----
 
 # 📋 Regras do Jogo
 
